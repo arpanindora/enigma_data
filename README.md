@@ -1,0 +1,1 @@
+### Package To Download Ticker Level Data from Zerodha
